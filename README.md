@@ -2,6 +2,8 @@
 
 My In-Memory Relational Database
 
+(It functions equivalently to sqlite)
+
 ## Inspiration
 
 - I am looking to expand my knowledge in distributed systems, one project at a time. So far I covered Sentinel, a distributed KV storage which covered consensus algorithms, distributed networking, etc.
